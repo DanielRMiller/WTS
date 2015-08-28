@@ -1,0 +1,15 @@
+c:\users\daniel\documents\visual studio 2015\Projects\WordToSaras\WordToSaras\bin\Debug\WordToSaras.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\WordToSaras\WordToSaras\bin\Debug\WordToSaras.exe
+c:\users\daniel\documents\visual studio 2015\Projects\WordToSaras\WordToSaras\bin\Debug\WordToSaras.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\WordToSaras\WordToSaras\obj\Debug\WordToSaras.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\WordToSaras\WordToSaras\obj\Debug\WordToSaras.csproj.ResolveComReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\WordToSaras\WordToSaras\obj\Debug\WordToSaras.exe
+c:\users\daniel\documents\visual studio 2015\Projects\WordToSaras\WordToSaras\obj\Debug\WordToSaras.pdb
+C:\Users\Daniel\Source\Repos\WordToSaras\WordToSaras\bin\Debug\WordToSaras.exe.config
+C:\Users\Daniel\Source\Repos\WordToSaras\WordToSaras\obj\Debug\WordToSaras.csproj.ResolveComReference.cache
+C:\Users\Daniel\Source\Repos\WordToSaras\WordToSaras\obj\Debug\WordToSaras.exe
+C:\Users\Daniel\Source\Repos\WordToSaras\WordToSaras\obj\Debug\WordToSaras.pdb
+C:\Users\Daniel\Source\Repos\WordToSaras\bin\Debug\WordToSaras.exe.config
+C:\Users\Daniel\Source\Repos\WordToSaras\obj\Debug\WordToSaras.csproj.ResolveComReference.cache
+C:\Users\Daniel\Source\Repos\WordToSaras\obj\Debug\WordToSaras.exe
+C:\Users\Daniel\Source\Repos\WordToSaras\obj\Debug\WordToSaras.pdb
