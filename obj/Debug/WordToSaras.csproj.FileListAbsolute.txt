@@ -13,3 +13,12 @@ C:\Users\Daniel\Source\Repos\WordToSaras\bin\Debug\WordToSaras.exe.config
 C:\Users\Daniel\Source\Repos\WordToSaras\obj\Debug\WordToSaras.csproj.ResolveComReference.cache
 C:\Users\Daniel\Source\Repos\WordToSaras\obj\Debug\WordToSaras.exe
 C:\Users\Daniel\Source\Repos\WordToSaras\obj\Debug\WordToSaras.pdb
+C:\Users\Daniel\Documents\GitHubVisualStudio\WordToSaras\bin\Debug\WordToSaras.exe.config
+C:\Users\Daniel\Documents\GitHubVisualStudio\WordToSaras\obj\Debug\WordToSaras.csproj.ResolveComReference.cache
+C:\Users\Daniel\Documents\GitHubVisualStudio\WordToSaras\obj\Debug\WordToSaras.exe
+C:\Users\Daniel\Documents\GitHubVisualStudio\WordToSaras\obj\Debug\WordToSaras.pdb
+C:\Users\Daniel\Documents\GitHubVisualStudio\WordToSaras\bin\Debug\WordToSaras.exe
+C:\Users\Daniel\Documents\GitHubVisualStudio\WordToSaras\bin\Debug\WordToSaras.pdb
+C:\Users\Daniel\Documents\GitHubVisualStudio\WordToSaras\bin\Debug\WordToSaras.exe.CodeAnalysisLog.xml
+C:\Users\Daniel\Documents\GitHubVisualStudio\WordToSaras\bin\Debug\WordToSaras.exe.lastcodeanalysissucceeded
+C:\Users\Daniel\Documents\GitHubVisualStudio\WordToSaras\obj\Debug\WordToSaras.csprojResolveAssemblyReference.cache
