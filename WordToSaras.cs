@@ -12,14 +12,30 @@ namespace WordToSaras
     {
         static void Main(string[] args)
         {
-            // Create the Document to store data.
-            // NOTE: this will take a param that is the saveTo filename
-            ExcelWriter excelWriter = new ExcelWriter(args[1], args[2]);
-            ParserHelper p = new ParserHelper(args[0], excelWriter);
-            p.parseFile();
-            // This is just to help me see when the program is finished
-            Console.Write("Press any key: ");
+            if (args.Length < 3)
+            {
+                Usage();
+            }
+            else
+            {
+                // Create the Document to store data.
+                // NOTE: this will take a param that is the saveTo filename
+                ExcelWriter excelWriter = new ExcelWriter(args[1], args[2]);
+                ParserHelper p = new ParserHelper(args[0], excelWriter);
+                p.parseFile();
+                // This is just to help me see when the program is finished
+            }
+            Console.Write("Press any key to exit: ");
             Console.ReadKey();
+        }
+
+        private static void Usage()
+        {
+            Console.WriteLine("Please try again with 3 arguments.");
+            Console.WriteLine("The correct format is:");
+            Console.WriteLine("\tWordToSaras <DOCX FILENAME> <XLSX FILENAME> <EXAM NAME>");
+            Console.WriteLine("An example of this would be:");
+            Console.WriteLine("\tWordToSaras Exam1.docx Exam1.xlsx Bio461Exam1");
         }
     }
     class ParserHelper
